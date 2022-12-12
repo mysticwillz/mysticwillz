@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ezewilliamsezebuilo1010@gmail.com**
 
-- ⚡ Fun fact **i'm also Medical LAB Scientist**
+- ⚡ Fun fact **i'm a Hematologist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
