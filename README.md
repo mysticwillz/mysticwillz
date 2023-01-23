@@ -1,4 +1,4 @@
- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Eze Williams</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Kaban-ecommerce**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Next**
 
 - 💬 Ask me about **React, javascript, firebase, Tailwind, Css and HTML**
 
