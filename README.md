@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next**
 
-- 💬 Ask me about **React, javascript, firebase, Typescript*
+- 💬 Ask me about **React, javascript, firebase, Typescript  annd Next*
 
 - 📫 How to reach me **ezewilliamsezebuilo1010@gmail.com**
 
