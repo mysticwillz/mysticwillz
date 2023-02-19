@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Kaban-ecommerce**
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Next tsx**
 
 - 💬 Ask me about **React, javascript, firebase, Typescript  annd Next*
 
