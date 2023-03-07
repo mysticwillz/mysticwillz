@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next tsx**
 
-- 💬 Ask me about **React, React native, javascript, firebase, Typescript  annd Next*
+- 💬 Ask me about **React, React native, javascript, firebase, Typescript, jest, cypress  annd Next*
 
 - 📫 How to reach me **ezewilliamsezebuilo1010@gmail.com**
 
