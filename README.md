@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="mysticwillz" /> </p>
 
-- 🔭 I’m currently working on **Kaban-ecommerce**
+- 🔭 I’m currently working on **LazyFix**
 
 - 🌱 I’m currently learning **Next tsx**
 
