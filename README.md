@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **VillaMarket**
 
-- 🌱 I’m currently learning **Next tsx**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask mee about **React, React native, javascript, firebase, Styled Components, Typescript, jest, cypress  annd Next*
 
