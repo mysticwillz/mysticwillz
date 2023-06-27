@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **LazyFix**
 
-- 💬 Ask mee about **React, React native, javascript, firebase, Styled Components, Typescript, jest, cypress  annd Next*
+- 💬 Ask mee about **React, React native, javascript, firebase, Typescript, jest, cypress  annd Next*
 
 - 📫 How to reach me **ezewilliamsezebuilo1010@gmail.com**
 
