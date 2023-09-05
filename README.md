@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently  **Getting Better**
 
-- 💬 Ask mee about *React, React native, javascript, firebase, Typescript, jest and Next*
+- 💬 Ask mee about *React, React native., javascript, firebase, Typescript, jest and Next*
 
 - 📫 How to reach me **ezewilliamsezebuilo1010@gmail.com**
 
