@@ -8,7 +8,7 @@
 
 - 💬 Ask mee about *React, React native, javascript, firebase, Typescript, jest and Next*
 
-- 📫 How to reach me **ezewilliamsezebuilo1010@gmail.com**
+- 📫 How to reach me, **ezewilliamsezebuilo1010@gmail.com**
 
 - ⚡ Fun fact **i'm a Dark Coper**
 
