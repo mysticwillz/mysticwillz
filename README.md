@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi!!! 👋, I'm Eze Williams Ezebuilo</h1>
+<h1 align="center">Hi!! 👋, I'm Eze Williams Ezebuilo</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="mysticwillz" /> </p>
