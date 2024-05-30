@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="mysticwil" /> </p>
 
-- 🔭 I’m currently  **Getting Better!!**
+- 🔭 I’m currently  **Getting Better!**
 
 - 💬 Ask me about *React, React native, javascript, firebase, Typescript, and Next*
 
