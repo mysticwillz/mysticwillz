@@ -10,7 +10,7 @@
 
 - 📫 How to reach me, **ezewilliamsezebuilo1010@gmail.com**
 
-- ⚡ Fun fact **I'm a Dark Coper**
+- ⚡ Fun fact **I'm  a Dark Copeer**
 
 <h3 align="left">Connect with me::</h3>
 <p align="left">
