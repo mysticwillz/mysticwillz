@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Getting Better!<br><br>💬 Ask me about React, React native, javascript, firebase, Typescript, and Next, Nest, Python, Django<br><br>📫 How to reach me, ezewilliamsezebuilo1010@gmail.com<br><br>⚡ Fun fact I'm a Dark Coper.
+🔭 I’m currently Getting Better!<br><br>💬 Ask me about React, React native, javascript, firebase, Typescript, and Next, Nest, Python, Django<br><br>📫 How to reach me, ezewilliamsezebuilo1010@gmail.com<br><br>⚡ Fun fact I'm a Dark Coper...
 
 
 ## 🌐 Socials.:
@@ -9,4 +9,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mysticwillz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
